@@ -1,4 +1,4 @@
-# 👋 Hello there, I'm Hamzi
+# 👋 Hello there,
 
 I'm currently exploring machine learning development and the role of a data analyst.
 
